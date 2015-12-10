@@ -10,7 +10,7 @@ namespace ConsoleApplication3.Day3
     {
         List<string> _coordinatesCounter = new List<string>();
 
-        public int UniqueLocationCount()
+        public int UniqueLocationsCount()
         {
             return this._coordinatesCounter.Count;
         }

@@ -45,7 +45,7 @@ namespace ConsoleApplication3
                 tracker.Add(coords);
             }
 
-            Console.WriteLine(tracker.UniqueLocationCount());
+            Console.WriteLine(tracker.UniqueLocationsCount());
             Console.ReadKey();
         }
     }
